@@ -39,7 +39,7 @@ function App() {
           />
           <button
             onClick={fetchWeather}
-            className="px-5 py-2 bg-blue-500 hover:bg-blue-600 rounded-lg font-semibold shadow-md transition"
+            className="px-5 py-2 bg-blue-500 hover:bg-blue-700 rounded-lg font-semibold shadow-md transition"
           >
             Search
           </button>
