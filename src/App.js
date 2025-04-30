@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-600 via-purple-700 to-indigo-900 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-gradient-to-br from-blue-400 via-purple-700 to-yellow-600 flex items-center justify-center p-4">
       <div className="bg-white bg-opacity-10 backdrop-blur-md rounded-xl shadow-2xl p-8 w-full max-w-md text-white">
         <h1 className="text-4xl font-bold text-center mb-6 tracking-wide text-white drop-shadow-md">
           🌦️ Weather Report
